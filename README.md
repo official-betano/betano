@@ -1,6 +1,6 @@
-# <a href="/go/">Betano.com</a>
+# <a href="https://bit.ly/bet-brasil">Betano.com</a>
 
-# <a href="/go/">CLIQUE AQUI PARA ACEDER</a>
+# <a href="https://bit.ly/bet-brasil">CLIQUE AQUI PARA ACEDER</a>
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,9 +8,9 @@
 <body>
 
 <div style=<text-align: center;">
-<a href="/go/" title="Betano"><img src="https://github.com/user-attachments/assets/eec8b914-bed2-4a42-9a9d-a658831797a6" title="Betano" alt="Betano"></a></div>
+<a href="https://bit.ly/bet-brasil" title="Betano"><img src="https://github.com/user-attachments/assets/eec8b914-bed2-4a42-9a9d-a658831797a6" title="Betano" alt="Betano"></a></div>
 <div style=<text-align: center;">
-<a href="/go/">
+<a href="https://bit.ly/bet-brasil">
 <img src="https://github.com/user-attachments/assets/eec8b914-bed2-4a42-9a9d-a658831797a6" />
 </a></div>
 
